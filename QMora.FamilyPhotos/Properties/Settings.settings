@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QMora.FamilyPhotos.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Directory_Input" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\temp\input</Value>
+    </Setting>
+    <Setting Name="Directory_Backup" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\temp\backup</Value>
+    </Setting>
+    <Setting Name="Directory_Output" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\temp\output</Value>
+    </Setting>
+    <Setting Name="File_ExcelData" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\temp\QMora_Data.xlsx</Value>
+    </Setting>
+    <Setting Name="Draw_FontColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="Draw_BackGround" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">192, 255, 255</Value>
+    </Setting>
+    <Setting Name="Draw_Font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Verdana, 8pt</Value>
+    </Setting>
+    <Setting Name="Draw_Box_Height_Percentage" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Draw_Box_Width_Percentage" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Margin_FromLeft_Percentage" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="Margin_FromBotton_Percentage" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
